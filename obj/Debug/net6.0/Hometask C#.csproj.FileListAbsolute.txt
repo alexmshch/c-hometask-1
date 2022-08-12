@@ -1,0 +1,15 @@
+/Users/aleksejmeserakov/Desktop/Hometask C#/bin/Debug/net6.0/Hometask C#
+/Users/aleksejmeserakov/Desktop/Hometask C#/bin/Debug/net6.0/Hometask C#.deps.json
+/Users/aleksejmeserakov/Desktop/Hometask C#/bin/Debug/net6.0/Hometask C#.runtimeconfig.json
+/Users/aleksejmeserakov/Desktop/Hometask C#/bin/Debug/net6.0/Hometask C#.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/bin/Debug/net6.0/Hometask C#.pdb
+/Users/aleksejmeserakov/Desktop/Hometask C#/obj/Debug/net6.0/Hometask C#.csproj.AssemblyReference.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/obj/Debug/net6.0/Hometask C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejmeserakov/Desktop/Hometask C#/obj/Debug/net6.0/Hometask C#.AssemblyInfoInputs.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/obj/Debug/net6.0/Hometask C#.AssemblyInfo.cs
+/Users/aleksejmeserakov/Desktop/Hometask C#/obj/Debug/net6.0/Hometask C#.csproj.CoreCompileInputs.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/obj/Debug/net6.0/Hometask C#.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/obj/Debug/net6.0/refint/Hometask C#.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/obj/Debug/net6.0/Hometask C#.pdb
+/Users/aleksejmeserakov/Desktop/Hometask C#/obj/Debug/net6.0/Hometask C#.genruntimeconfig.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/obj/Debug/net6.0/ref/Hometask C#.dll
