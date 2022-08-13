@@ -12,4 +12,4 @@ while (a <= N)
     }
     a = a+1;
 }
-Console.WriteLine(" ");
+Console.WriteLine("  ");
