@@ -1,0 +1,15 @@
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/obj/Debug/net6.0/L3_program3.csproj.AssemblyReference.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/obj/Debug/net6.0/L3_program3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/obj/Debug/net6.0/L3_program3.AssemblyInfoInputs.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/obj/Debug/net6.0/L3_program3.AssemblyInfo.cs
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/obj/Debug/net6.0/L3_program3.csproj.CoreCompileInputs.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/bin/Debug/net6.0/L3_program3
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/bin/Debug/net6.0/L3_program3.deps.json
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/bin/Debug/net6.0/L3_program3.runtimeconfig.json
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/bin/Debug/net6.0/L3_program3.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/bin/Debug/net6.0/L3_program3.pdb
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/obj/Debug/net6.0/L3_program3.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/obj/Debug/net6.0/refint/L3_program3.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/obj/Debug/net6.0/L3_program3.pdb
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/obj/Debug/net6.0/L3_program3.genruntimeconfig.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L3_program3/obj/Debug/net6.0/ref/L3_program3.dll
