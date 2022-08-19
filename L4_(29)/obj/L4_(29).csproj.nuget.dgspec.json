@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_program2/L4_program2.csproj": {}
+    "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_(29)/L4_(29).csproj": {}
   },
   "projects": {
-    "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_program2/L4_program2.csproj": {
+    "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_(29)/L4_(29).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_program2/L4_program2.csproj",
-        "projectName": "L4_program2",
-        "projectPath": "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_program2/L4_program2.csproj",
+        "projectUniqueName": "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_(29)/L4_(29).csproj",
+        "projectName": "L4_(29)",
+        "projectPath": "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_(29)/L4_(29).csproj",
         "packagesPath": "/Users/aleksejmeserakov/.nuget/packages/",
-        "outputPath": "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_program2/obj/",
+        "outputPath": "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_(29)/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aleksejmeserakov/.nuget/NuGet/NuGet.Config"

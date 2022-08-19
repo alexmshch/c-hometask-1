@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_program1/L4_program1.csproj",
-      "projectName": "L4_program1",
-      "projectPath": "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_program1/L4_program1.csproj",
+      "projectUniqueName": "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_(29)/L4_(29).csproj",
+      "projectName": "L4_(29)",
+      "projectPath": "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_(29)/L4_(29).csproj",
       "packagesPath": "/Users/aleksejmeserakov/.nuget/packages/",
-      "outputPath": "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_program1/obj/",
+      "outputPath": "/Users/aleksejmeserakov/Desktop/Hometask C#/L4_(29)/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aleksejmeserakov/.nuget/NuGet/NuGet.Config"
