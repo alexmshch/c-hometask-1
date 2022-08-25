@@ -1,0 +1,15 @@
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/obj/Debug/net6.0/L5_(38).csproj.AssemblyReference.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/obj/Debug/net6.0/L5_(38).GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/obj/Debug/net6.0/L5_(38).AssemblyInfoInputs.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/obj/Debug/net6.0/L5_(38).AssemblyInfo.cs
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/obj/Debug/net6.0/L5_(38).csproj.CoreCompileInputs.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/bin/Debug/net6.0/L5_(38)
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/bin/Debug/net6.0/L5_(38).deps.json
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/bin/Debug/net6.0/L5_(38).runtimeconfig.json
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/bin/Debug/net6.0/L5_(38).dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/bin/Debug/net6.0/L5_(38).pdb
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/obj/Debug/net6.0/L5_(38).dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/obj/Debug/net6.0/refint/L5_(38).dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/obj/Debug/net6.0/L5_(38).pdb
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/obj/Debug/net6.0/L5_(38).genruntimeconfig.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L5_(38)/obj/Debug/net6.0/ref/L5_(38).dll
