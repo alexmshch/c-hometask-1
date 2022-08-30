@@ -1,0 +1,30 @@
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/obj/Debug/net6.0/L7_(48) don't check.csproj.AssemblyReference.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/obj/Debug/net6.0/L7_(48) don't check.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/obj/Debug/net6.0/L7_(48) don't check.AssemblyInfoInputs.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/obj/Debug/net6.0/L7_(48) don't check.AssemblyInfo.cs
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/obj/Debug/net6.0/L7_(48) don't check.csproj.CoreCompileInputs.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/bin/Debug/net6.0/L7_(48) don't check
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/bin/Debug/net6.0/L7_(48) don't check.deps.json
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/bin/Debug/net6.0/L7_(48) don't check.runtimeconfig.json
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/bin/Debug/net6.0/L7_(48) don't check.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/bin/Debug/net6.0/L7_(48) don't check.pdb
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/obj/Debug/net6.0/L7_(48) don't check.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/obj/Debug/net6.0/refint/L7_(48) don't check.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/obj/Debug/net6.0/L7_(48) don't check.pdb
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/obj/Debug/net6.0/L7_(48) don't check.genruntimeconfig.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_(48) don't check/obj/Debug/net6.0/ref/L7_(48) don't check.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/obj/Debug/net6.0/L7_(48) don't check.csproj.AssemblyReference.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/obj/Debug/net6.0/L7_(48) don't check.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/obj/Debug/net6.0/L7_(48) don't check.AssemblyInfoInputs.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/obj/Debug/net6.0/L7_(48) don't check.AssemblyInfo.cs
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/obj/Debug/net6.0/L7_(48) don't check.csproj.CoreCompileInputs.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/obj/Debug/net6.0/L7_(48) don't check.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/obj/Debug/net6.0/refint/L7_(48) don't check.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/obj/Debug/net6.0/L7_(48) don't check.pdb
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/bin/Debug/net6.0/L7_(48) don't check
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/bin/Debug/net6.0/L7_(48) don't check.deps.json
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/bin/Debug/net6.0/L7_(48) don't check.runtimeconfig.json
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/bin/Debug/net6.0/L7_(48) don't check.dll
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/bin/Debug/net6.0/L7_(48) don't check.pdb
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/obj/Debug/net6.0/L7_(48) don't check.genruntimeconfig.cache
+/Users/aleksejmeserakov/Desktop/Hometask C#/L7_work/obj/Debug/net6.0/ref/L7_(48) don't check.dll
